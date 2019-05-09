@@ -15,7 +15,7 @@ The Ulam Spiral is a graphical representation of positive prime numbers. It was 
 
 ## Installation
 
-Check out the [releases](/releases) tab and download the latest version. Double click on the `.saver` file to install it. Once **Desktop & Screen Saver** preferences opens automatically, choose the **Ulam Spiral** screen saver from the list of screen savers.
+Check out the [releases](https://github.com/null93/ulam-spiral/releases) tab and download the latest version. Double click on the `.saver` file to install it. Once **Desktop & Screen Saver** preferences opens automatically, choose the **Ulam Spiral** screen saver from the list of screen savers.
 
 ## Development
 
